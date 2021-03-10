@@ -1,6 +1,6 @@
 # Vercel Functions Test
 
-A Simple Server to test Vercel Functions in local
+A Simple Server to test Vercel Lambda Functions in local
 
 **Steps to Test your functions**
 

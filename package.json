@@ -1,7 +1,7 @@
 {
   "name": "vercel-functions-test",
   "version": "1.0.0",
-  "description": "A Simple Server to test Vercel Functions in local",
+  "description": "A Simple Server to test Vercel Lambda Functions in local",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
