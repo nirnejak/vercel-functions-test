@@ -4,7 +4,7 @@ A Simple Server to test Vercel Lambda Functions in local
 
 **Steps to Test your functions**
 
-1. Write your function in `/api/myfunction.js`
+1. Write your function in `/api/`
 
 2. Import your function in `index.js`
 
